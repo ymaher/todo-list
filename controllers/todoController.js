@@ -1,5 +1,5 @@
 var bodyParser = require('body-parser');
-//var data =[{item:'drink milk'},{item:'have fun'},{item:'sleep tight'}];
+
 var mongoose = require('mongoose');
 
 //connect to database
