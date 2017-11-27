@@ -4,7 +4,7 @@ var mongoose = require('mongoose');
 
 //connect to database
   useMongoClient: true,
-mongoose.connect('mongodb://test:test@ds259105.mlab.com:59105/todo');
+mongoose.connect('mongodb link here');
 
 //create a schema
 var todoSchema = new mongoose.Schema({
